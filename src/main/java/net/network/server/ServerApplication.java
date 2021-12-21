@@ -1,9 +1,3 @@
-//https://icons-for-free.com/?s=server+colors
-//https://www.youtube.com/watch?v=8ZPsZBcue50
-//        Back End: https://bit.ly/39sDCJN
-//        Front End: https://bit.ly/3EGqUW9
-//        2:15:00 time stamp
-
 package net.network.server;
 
 import net.network.server.model.Server;
